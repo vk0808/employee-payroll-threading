@@ -1,9 +1,6 @@
 {
   "version": 3,
   "targets": {
-<<<<<<< HEAD
-    ".NETCoreApp,Version=v3.1": {}
-=======
     ".NETCoreApp,Version=v3.1": {
       "Microsoft.NETCore.Platforms/3.1.0": {
         "type": "package",
@@ -628,18 +625,12 @@
         "version.txt"
       ]
     }
->>>>>>> UC-2-AddEmpWithThread
   },
-  "libraries": {},
   "projectFileDependencyGroups": {
-<<<<<<< HEAD
-    ".NETCoreApp,Version=v3.1": []
-=======
     ".NETCoreApp,Version=v3.1": [
       "System.Data.SqlClient >= 4.8.2",
       "System.Diagnostics.PerformanceCounter >= 4.5.0"
     ]
->>>>>>> UC-2-AddEmpWithThread
   },
   "packageFolders": {
     "C:\\Users\\vk476\\.nuget\\packages\\": {}
@@ -679,8 +670,6 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
-<<<<<<< HEAD
-=======
         "dependencies": {
           "System.Data.SqlClient": {
             "target": "Package",
@@ -691,7 +680,6 @@
             "version": "[4.5.0, )"
           }
         },
->>>>>>> UC-2-AddEmpWithThread
         "imports": [
           "net461",
           "net462",

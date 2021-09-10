@@ -1,11 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "J0rAMMPfdQruFWGLYTP6rImX1VK+pUM3Bkswjwmm5F/6eHia1upa8AM37EwjjzQoq2APojYnc5NwojdDia1ijA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\vk476\\Desktop\\Fellowship Program\\Practice Problems\\Day36Problems\\EmployeePayrollUsingThreading\\EmployeePayrollUsingThreading\\EmployeePayrollUsingThreading.csproj",
-  "expectedPackageFiles": [],
-=======
   "dgSpecHash": "r/nGYVjDG5bG5IpqofDijWxmqcU5ZecgszJs9BsMj1TU3rp35s9oYw95ZQ3flOD29ePfGdzG+p9V4vOfqzrO1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\vk476\\Desktop\\Fellowship Program\\Practice Problems\\Day36Problems\\EmployeePayrollUsingThreading\\EmployeePayrollUsingThreading\\EmployeePayrollUsingThreading.csproj",
@@ -24,6 +18,5 @@
     "C:\\Users\\vk476\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\vk476\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
->>>>>>> UC-2-AddEmpWithThread
   "logs": []
 }
