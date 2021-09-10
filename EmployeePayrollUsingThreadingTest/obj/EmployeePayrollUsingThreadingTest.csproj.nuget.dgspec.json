@@ -115,6 +115,19 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+<<<<<<< HEAD
+=======
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "System.Diagnostics.PerformanceCounter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+>>>>>>> UC-2-AddEmpWithThread
           "imports": [
             "net461",
             "net462",
