@@ -6,7 +6,7 @@ namespace EmployeePayrollUsingThreading
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Employee Payroll using Threading\n");
         }
     }
 }
